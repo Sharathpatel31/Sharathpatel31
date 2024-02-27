@@ -7,7 +7,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/chinthapula-sharath-kumar-47600421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chinthapula-sharath-kumar-47600421b/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sharathpatel_31/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sharathpatel_31/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/problemset/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/problemset/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/sharathpatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/sharathpatel/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
