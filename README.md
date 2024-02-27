@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm CHINTHAPULA SHARATHKUMAR</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">'m a passionate web developer from Hyderabad</h3>
+
+- 🌱 I’m currently learning **web Development Frameworks**
 
 - 📫 How to reach me **chinthapoolasharath@gmail.com**
+
+- ⚡ Fun fact **You have a collection of quirky socks, each with its own unique design or pattern.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
